@@ -1,2 +1,3 @@
 # Artificial_Inteligent
-Learning AI
+Learning AI (pandas, Fuzzy logic, machine learning, deeplearning...)
+
